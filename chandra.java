@@ -1,5 +1,7 @@
+import datadiri.data;
 public class chandra{
 	public static void main(String[]args){
-		System.out.print("Ini adalah program pertama saya");
+		System.out.println("Ini adalah program pertama saya");
+		data.datax();
 	}
 }
